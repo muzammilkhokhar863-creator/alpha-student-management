@@ -1,0 +1,1 @@
+console.log("welcome to ALPHA Institute - Student Profile Page");
