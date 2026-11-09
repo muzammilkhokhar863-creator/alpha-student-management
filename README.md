@@ -1,6 +1,7 @@
 # alpha-student-management
 Name: alpha-student-management Description: ALPHA Institute Student Management Website - A simple web project to manage student profiles, dashboard, courses and assignments using HTML, CSS, JavaScript, 
-# ALPHA Institute - Student Management Website
+# ALPHA Institute - Student Management Website 
+
 
 ALPHA Institute is developing a Student Management Website to manage student information in an easy and organized way.
 
@@ -21,3 +22,8 @@ This project is created as part of Git & GitHub Team Collaboration Workflow assi
 
 ## Developer
 Student of ALPHA Institute
+
+
+
+#ALPHA Institue -Student Management Website -Version 1
+#ALPHA Institue -Student Management Website -Version 2
